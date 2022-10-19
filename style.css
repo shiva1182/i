@@ -1,0 +1,313 @@
+
+.orphan{
+	padding: 2px;
+	background: rgba(0, 0, 0, 0.15);
+}
+.o1{
+	max-width: 750px;
+	margin-top: 0 auto;
+	border-radius: 5px; 
+	overflow: hidden;
+	box-shadow: 0 0 15px rgba(0, 0, 0,0.15);
+}
+.o2{
+	padding: 30px;
+	background: darkcyan;
+}
+.page1{
+	background:darkcyan;
+	margin: 15px;
+	margin-top: 50px;
+
+}
+
+.orphanage{
+	padding: 10px;
+	color: dark cyan;
+	font-weight: bold;
+	background: #ffffff;
+	width: 50%;
+	height: 10%;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer ;
+}
+.orphanage{
+	border:  thin groove white;
+}
+
+
+
+
+.page2{
+	background: #009578;
+	margin: 15px;
+	margin-top: 50px;
+}
+
+.login,
+.login*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+}
+.login{
+	max-width: 550px;
+	margin-top: 0 auto;
+	border-radius: 5px; 
+	overflow: hidden;
+	box-shadow: 0 0 15px rgba(0, 0, 0,0.15);
+
+
+}
+.login1{
+	padding: 30px;
+	background: rgba(0, 0, 0, 0.15);
+}
+.login2{
+	padding: 50px;
+	background: #eeeeee;
+}  
+.login3{
+	margin-bottom: 15px;
+	text-align: center;
+	background: #eeeeee;
+}
+.input{
+	text-align: left;
+	width: 70%;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 2px solid #eeeeee;
+	background: #ffffff;
+	outline: none;
+	transition: border-color 0.5s;
+	align-content: left;
+
+}
+.input{
+	border-color: #009578;
+}
+.input: :placeholder {
+	color: #aaaaaa;
+
+}
+.submit{
+	padding: 10px;
+	color: #ffffff;
+	font-weight: bold;
+	background: #009578;
+	width: 50%;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer ;
+
+}
+.link{
+	 font-size: 0.9em;
+	 color: #009578;
+	 text-decoration: none;
+     text-align: left;
+      
+}
+.register{
+	font-size: 0.9em;
+	 color: #009578;
+	 text-decoration: none;
+
+}
+.ds{
+	max-width: 750px;
+	margin-top: 0 auto;
+	border-radius: 5px; 
+	overflow: hidden;
+	box-shadow: 0 0 15px rgba(0, 0, 0,0.15);
+
+}
+.page3{
+	background: #FF7F7F;
+	margin: 15px;
+	margin-top: 50px;
+}
+.ds1{
+    text-align: left;
+	width: 70%;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 2px solid #eeeeee;
+	background: #ffffff;
+	outline: none;
+	transition: border-color 0.5s;
+	align-content: left;	
+}
+.ds1{
+	border-color: #FF7F7F;
+}
+.ds1: :placeholder {
+	color: #aaaaaa;
+
+}
+.ds2{
+	padding: 30px;
+	color: #ffffff;
+	font-weight: bold;
+	background: #FF7F7F;
+	width: 50%;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer ;
+
+}
+.o3{
+
+	padding: 20px;
+	padding-top: 10;
+	color: #ffffff;
+	font-weight: bold;
+	background: darkcyan;
+	width: 50%;
+	height: 10%;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer ;
+}
+.r1{
+	background: #b19cd9;
+	margin: 15px;
+	margin-top: 50px;
+
+}
+.r2,
+.r2*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+}
+
+.r2{
+	max-width: 550px;
+	margin-top: 0 auto;
+	border-radius: 5px; 
+	overflow: hidden;
+	box-shadow: 0 0 15px rgba(0, 0, 0,0.15);
+	
+}
+.r3{
+	padding: 30px;
+	background: rgba(0, 0, 0, 0.15);
+}
+.r4{
+	padding: 40px;
+	background: #eeeeee;
+
+}
+.r5{
+	margin-bottom: 15px;
+	text-align: center;
+	background: #eeeeee;
+
+}
+.r6{
+	text-align: left;
+	width: 80%;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 2px solid #eeeeee;
+	background: #ffffff;
+	outline: none;
+	transition: border-color 0.5s;
+	align-content: left;
+
+}
+.r6{
+	border-color:#b19cd9;
+}
+.r6: :placeholder {
+	color: #aaaaaa;
+}
+.r7{
+	padding: 10px;
+	color: #ffffff;
+	font-weight: bold;
+	background: #b19cd9;
+	width: 50%;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer ;
+
+}
+.t1{
+	background: #B5651D;
+	margin: 15px;
+	margin-top: 50px;
+
+}
+.t2,
+.t2*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+}
+
+.t2{
+	max-width: 550px;
+	margin-top: 0 auto;
+	border-radius: 5px; 
+	overflow: hidden;
+	box-shadow: 0 0 15px rgba(0, 0, 0,0.15);
+	
+}
+.t3{
+	padding: 30px;
+	background: rgba(0, 0, 0, 0.15);
+}
+.t4{
+	padding: 40px;
+	background: #eeeeee;
+
+}
+.t5{
+	margin-bottom: 15px;
+	text-align: center;
+	background: #eeeeee;
+
+}
+.t6{
+	text-align: left;
+	width: 80%;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 2px solid #eeeeee;
+	background: #ffffff;
+	outline: none;
+	transition: border-color 0.5s;
+	align-content: left;
+
+}
+.t6{
+	border-color:#B5651D;
+}
+.t6: :placeholder {
+	color: #aaaaaa;
+}
+.t7{
+	padding: 10px;
+	color: #ffffff;
+	font-weight: bold;
+	background: #B5651D;
+	width: 50%;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer ;
+
+}
